@@ -19,7 +19,7 @@ A few months a go I went to work building a website portfolio for myself using G
 
 #### Team work
 
-Since a very young age I have been involved heavily in a variety of team based sports such as football. This gave me a range of communication skills, which I have developed over the years. Mainly in my first job as a football coach. Where I was responsible from the age of 15 to lead my own drills and teach a number of different age groups.
+From a very young age I was involved in a variety of team based sports, such as football, rugby and tennis (doubles). This gave me a range of communication skills, which I have developed over the years. Most of this development came from my first job as a football coach. Where I was responsible from the age of 15 to lead my own drills and teach a number of different age groups.
 
 Following on from this it gave me experience of leadership as I was able to give people the skills that I had learnt, going into University I found myself in group projects often leading as I was able to talk through our plans and get the group to come to agreements on topics and content.
 
