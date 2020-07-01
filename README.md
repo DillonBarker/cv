@@ -29,15 +29,18 @@ An example of this is where I led a group to produce a video highlighting the sc
 
 #### Makers Academy (07/06/20 to current)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby
 
 #### University of Birmingham (2016 to 2019)
 
 - Biochemistry, with Biotechnology
 - 2.1
+
+#### Coding Skills
+
+- Python
+- R
+- Qlikview
 
 #### Any other qualifications
 
