@@ -41,6 +41,8 @@ An example of this is where I led a group to produce a video highlighting the sc
 - Python
 - R
 - Qlikview
+- Ruby
+
 
 #### Any other qualifications
 
