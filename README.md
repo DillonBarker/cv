@@ -1,4 +1,4 @@
-## Dillon Barker
+# Dillon Barker
 
 I am a 2019 Biochemistry with Biotechnology graduate from the University of Birmingham. Whilst studying I got to use R, my first language which I loved using to solve problems. Since finishing University I went to work learning more about coding and programming and now I am now currently in the Makers Programming Course.
 
@@ -15,7 +15,7 @@ Whilst at University I excelled in problem solving, especially at the math based
 
 Since starting Makers I have worked a lot on Codewars in the Ruby language. I have solved problems, and then gone back to these a week or so later and greatly simplified my code making it more readable and understanding for others.
 
-A few months a go I went to work building a website portfolio for myself using GitHub pages (https://dillonbarker.github.io/). This was a great challenge as it involved a lot of coding skills and understanding that I did not yet have. However, through lots of effort fixing various page issues through googling and learning I was able to build a great website and even add a blog to it. I am using this blog to help me through the Makers Course.
+A few months ago I went to work building a website portfolio for myself using GitHub pages (https://dillonbarker.github.io/). This was a great challenge as it involved a lot of coding skills and understanding that I did not yet have. However, through lots of effort fixing various page issues through googling and learning I was able to build a great website and even add a blog to it. I am using this blog to help me through the Makers Course.
 
 #### Team work
 
@@ -40,7 +40,6 @@ Going into University I found myself in group projects often leading as I was ab
 - R
 - Qlikview
 - Ruby
-
 
 #### Any other qualifications
 
