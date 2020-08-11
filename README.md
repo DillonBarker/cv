@@ -27,7 +27,11 @@ Going into University I found myself in group projects often leading as I was ab
 
 #### Makers Academy (07/06/20 to current)
 
-- Ruby
+- Ruby, Javascript
+  * OOP, TDD, Databases, Sinatra, JQuery
+
+
+
 
 #### University of Birmingham (2016 to 2019)
 
@@ -40,6 +44,7 @@ Going into University I found myself in group projects often leading as I was ab
 - R
 - Qlikview
 - Ruby
+- Javascript
 
 #### Any other qualifications
 
