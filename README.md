@@ -1,55 +1,39 @@
 # Dillon Barker
+#### Email: barker.dill98@gmail.com
+#### Website: https://dillonbarker.github.io/
+#### Github: https://github.com/DillonBarker 
+#### LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
+---
 
-I am a 2019 Biochemistry with Biotechnology graduate from the University of Birmingham. Whilst studying I got to use R, my first language which I loved using to solve problems. Since finishing University I went to work learning more about coding and programming and now I am now currently in the Makers Programming Course.
+I am a full stack software engineer who loves to solve problems and learn new exciting technologies. I am currently towards the last few weeks on the software development bootcamp by Makers Academy. This has given me ability to solve problems through TDD and think analytically.
 
-## Skills
+### Technologies:
+JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
 
-- Problem solving
-- Team work
+### Projects
+My projects can be found on the front page of my [github](https://github.com/DillonBarker)
+Here are a few I am very proud of:
+* [Instagram Clone](https://github.com/DillonBarker/instagram-challenge), a personal project I was interested in to cement the skills from the group project weeks.
+* [Facebook Clone](https://github.com/Pi-hils/Acebook), this was done in a group of 5 over 2 weeks at the Makers Academy.
 
-#### Problem solving
+### Experience
 
-I have always enjoyed having problems to solve, it gives a lot of structure and there is always a better way of doing something. This is great for progression as you learn new skills, you can go back to various challenges you have tackled and improve on them.
+Makers Academy - A software development bootcamp based in London (June 2020 to current)
+* Programming principles: OOP, TDD, software design patterns
+* Fully remote training
+* Agile - working by pair programming and working in sprints.
+* Using web frameworks, and deployment strategies (CI/CD) to show full stack work
+* Knowledge sharing with my mentee I was assigned
 
-Whilst at University I excelled in problem solving, especially at the math based thermodynamics problem solving test, achieving above 90% in the third year exam.
+University of Birmingham - BSc in Biochemistry with Biotechnology (2:1) (Sep 2016 - Jul 2019)
+* Problem solving skills
+* Teamwork working in large and small project groups
+* Analytics - working with R for statistical analysis
 
-Since starting Makers I have worked a lot on Codewars in the Ruby language. I have solved problems, and then gone back to these a week or so later and greatly simplified my code making it more readable and understanding for others.
-
-A few months ago I went to work building a website portfolio for myself using GitHub pages (https://dillonbarker.github.io/). This was a great challenge as it involved a lot of coding skills and understanding that I did not yet have. However, through lots of effort fixing various page issues through googling and learning I was able to build a great website and even add a blog to it. I am using this blog to help me through the Makers Course.
-
-#### Team work
-
-From a very young age I was involved in a variety of team based sports, such as football, rugby and tennis (doubles). This gave me a range of communication skills, which I have developed over the years. Most of this development came from my first job as a football coach. Here, I was responsible from the age of 15 to lead my own drills and teach a number of different age groups, taking on a lot of responsibility from a young age.
-
-Going into University I found myself in group projects often leading as I was able to talk through our plans and get the group to come to agreements on topics and content. An example of this is where I led a group to produce a video highlighting the science behind addiction, here I made myself responsible for the group and organised meetings and made sure we were done on time.
-
-## Education
-
-#### Makers Academy (07/06/20 to current)
-
-- Ruby, Javascript
-  * OOP, TDD, Databases, Sinatra, JQuery
-
-
-
-
-#### University of Birmingham (2016 to 2019)
-
-- Biochemistry, with Biotechnology
-- 2.1
-
-#### Coding Skills
-
-- Python
-- R
-- Qlikview
-- Ruby
-- Javascript
-
-#### Any other qualifications
+#### Other qualifications
 
 - Gold DofE
 
 ## Hobbies
 
-- Computers, Mountain Biking, Surfing, Music and Food.
+- Football, Computers, Mountain Biking, Surfing, Music and the great british fry up.
