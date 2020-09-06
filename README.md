@@ -1,8 +1,8 @@
 # Dillon Barker
-#### Email: barker.dill98@gmail.com
-#### Website: https://dillonbarker.github.io/
-#### Github: https://github.com/DillonBarker 
-#### LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
+Email: barker.dill98@gmail.com
+Website: https://dillonbarker.github.io/
+Github: https://github.com/DillonBarker 
+LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
 ---
 
 I am a full stack software engineer who loves to solve problems and learn new exciting technologies. I am currently towards the last few weeks on the software development bootcamp by Makers Academy. This has given me ability to solve problems through TDD and think analytically.
