@@ -1,8 +1,10 @@
 # Dillon Barker
-Email: barker.dill98@gmail.com
-Website: https://dillonbarker.github.io/
-Github: https://github.com/DillonBarker 
-LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
+<small>
+- Email: barker.dill98@gmail.com
+- Website: https://dillonbarker.github.io/
+- Github: https://github.com/DillonBarker 
+- LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
+</small>
 ---
 
 I am a full stack software engineer who loves to solve problems and learn new exciting technologies. I am currently towards the last few weeks on the software development bootcamp by Makers Academy. This has given me ability to solve problems through TDD and think analytically.
@@ -34,6 +36,6 @@ University of Birmingham - BSc in Biochemistry with Biotechnology (2:1) (Sep 201
 
 - Gold DofE
 
-## Hobbies
+#### Hobbies
 
 - Football, Computers, Mountain Biking, Surfing, Music and the great british fry up.
