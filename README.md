@@ -11,7 +11,7 @@ I am a full stack software engineer who loves to solve problems and learn new ex
 JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
 
 ### Projects
-My projects can be found on the front page of my [github](https://github.com/DillonBarker)
+My projects can be found on the front page of my [github](https://github.com/DillonBarker)<br>
 Here are a few I am very proud of:
 * [Instagram Clone](https://github.com/DillonBarker/instagram-challenge), a personal project I was interested in to cement the skills from the group project weeks.
 * [Facebook Clone](https://github.com/Pi-hils/Acebook), this was done in a group of 5 over 2 weeks at the Makers Academy.
