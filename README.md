@@ -13,6 +13,7 @@ JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreS
 ### Projects
 My projects can be found on the front page of my [github](https://github.com/DillonBarker)<br>
 Here are a few I am very proud of:
+* [Maelstrom-RPG](https://github.com/dwram/Maelstrom), my final project at Makers.
 * [Instagram Clone](https://github.com/DillonBarker/instagram-challenge), a personal project I was interested in to cement the skills from the group project weeks.
 * [Facebook Clone](https://github.com/Pi-hils/Acebook), this was done in a group of 5 over 2 weeks at the Makers Academy.
 
