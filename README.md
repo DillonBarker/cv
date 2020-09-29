@@ -1,6 +1,6 @@
 # Dillon Barker
 - Email: barker.dill98@gmail.com
-- Website: https://dillonbarker.github.io/
+- Portfolio: https://dillonbarker.github.io/
 - Github: https://github.com/DillonBarker 
 - LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
 ---
