@@ -18,9 +18,9 @@ Whilst at University my favourite modules included the use of R to do statisical
 JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
 
 ### Projects
-My projects can be found on the front page of my Github: https://github.com/DillonBarker
+My projects can be found on the front page of my [Github](https://github.com/DillonBarker)
 
-My portfolio showcasing my projects and blogs can be found here: https://dillonbarker.github.io/
+My portfolio showcasing my projects and blogs can be found [here](https://dillonbarker.github.io/)
 
 Here are a few I am very proud of:
 - Portfolio - GitHub pages, JavaScript, Ruby, HTML, SCSS
@@ -40,7 +40,9 @@ Here are a few I am very proud of:
 - Data analytics - working with R for statistical analysis
 
 ### Hobbies and fun facts
-- Football, Computers, Mountain Biking, Surfing and Music
+- Football, building computers, mountain biking, surfing and music
 - I have a Gold DofE award, I have travelled a lot and love to experience new things!
-- I write blogs about my coding experience and things that interest me, found on my portfolio! 
+  * For my award I volunteered as a football coach for 1 year, and I took part in a 1 month trip to Costa Rica and Nicaragua where we trekked volcanoes and helped to build a kitchen at a school in Nicaragua.
+- I write blogs about my coding experience and things that interest me, found on my [portfolio!](https://dillonbarker.github.io/blog/)
+  * I am currently looking into Django vs. Flask for my first python web app, i'll soon be blogging on this!
 
