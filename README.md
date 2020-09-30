@@ -14,6 +14,8 @@ I am a junior full stack developer who loves to solve problems and learn new exc
 ### My Motivation
 Whilst at University my favourite modules included the use of R to do statisical analysis, this was the first language I was exposed to. Coming out of University I knew I wanted to learn more about coding/programming as I have always been interested in computers. This stemed from my father, being a developer himself, he has told me stories about jobs within code he has had and the wide variety is intriguing to me, how one skill can cover so many areas and you can always learn something new whether its a language or framework. As a result, I went to work getting to grips with programming, self teaching through online courses eg. LinkedIn learning, YouTube, Udemy, Codeacademy. Then more recently I took the plunge to invest in a coding bootcamp at Makers Academy, here I was able to learn with other like minded driven people which gave me a great boost to work. I look forward, now as a graduate to working in more projects with people I have met.
 
+---
+
 ### Technologies
 JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
 
