@@ -1,9 +1,9 @@
-### Dillon Barker                                     
+## Dillon Barker                                     
 - Email: barker.dill98@gmail.com
 - Portfolio: https://dillonbarker.github.io/
 - Github: https://github.com/DillonBarker
 - LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/ 
----
+
 ### Me
 I am a junior full stack developer who loves to solve problems and learn new exciting technologies. I have just completed an intensive coding bootcamp at Makers Academy. Through my time here I have benefited greatly by knowledge sharing with my peers and mentee. This has given me the ability to solve problems through TDD and apply my previous analytical/mathematical knowledge to new problems surrounding code.
 
