@@ -35,7 +35,7 @@ Here are a few I am very proud of:
 
 ### Experience
 **Makers Academy** - A software development bootcamp (Jun 2020 - Sep 2020)
-- Knowledge sharing - with my mentee
+- Knowledge sharing - with my mentee and peers during the course.
 - Tech tests - following object orientated programming and test driven development
 - Pair programming - working with new people everyday and adapting approach accordingly
 - CI/CD of group projects - best practice deploying tested code
