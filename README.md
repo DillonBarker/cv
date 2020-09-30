@@ -1,5 +1,5 @@
 <h1 align="center">Dillon Barker</h1>                                     
-<div align="right">
+<div align="center">
   
 - Email: barker.dill98@gmail.com
 - Portfolio: https://dillonbarker.github.io/
