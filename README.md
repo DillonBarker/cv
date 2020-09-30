@@ -1,10 +1,10 @@
 <h1 align="center">Dillon Barker</h1>                                     
 <div align="center">
   
-- [Email](barker.dill98@gmail.com)
-- [Portfolio](https://dillonbarker.github.io/)
-- [Github](https://github.com/DillonBarker)
-- [LinkedIn](https://www.linkedin.com/in/dillon-barker-7b4585151/)
+- Email - barker.dill98@gmail.com
+- View my [Portfolio](https://dillonbarker.github.io/)
+- Take a peek at my [Github](https://github.com/DillonBarker)
+- Check out my [LinkedIn](https://www.linkedin.com/in/dillon-barker-7b4585151/)
 
 </div>
 
