@@ -29,6 +29,8 @@ Here are a few I am very proud of:
 - Maelstrom-RPG - JavaScript, React, HTML, CSS
 - Instagram Clone - Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, CSS
 
+---
+
 ### Experience
 **Makers Academy** - A software development bootcamp (Jun 2020 - Sep 2020)
 - Knowledge sharing - with my mentee
