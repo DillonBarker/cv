@@ -27,9 +27,9 @@ My projects can be found on the front page of my [Github](https://github.com/Dil
 My portfolio showcasing my projects and blogs can be found [here](https://dillonbarker.github.io/)
 
 Here are a few I am very proud of:
-- Portfolio - GitHub pages, JavaScript, Ruby, HTML, SCSS
-- Maelstrom-RPG - JavaScript, React, HTML, CSS
-- Instagram Clone - Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, CSS
+- [Portfolio](https://dillonbarker.github.io/blog/) - GitHub pages, JavaScript, Ruby, HTML, SCSS
+- [Maelstrom-RPG](https://github.com/DillonBarker/Maelstrom) - JavaScript, React, HTML, CSS
+- [Instagram Clone](https://github.com/DillonBarker/instagram-challenge) - Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, CSS
 
 ---
 
