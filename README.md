@@ -4,37 +4,38 @@
 - Github: https://github.com/DillonBarker 
 - LinkedIn: https://www.linkedin.com/in/dillon-barker-7b4585151/
 ---
+### Me
+I am a junior full stack developer who loves to solve problems and learn new exciting technologies. I have just completed an intensive coding bootcamp at Makers Academy. Through my time here I have benefited greatly by knowledge sharing with my peers and mentee. This has given me the ability to solve problems through TDD and apply my previous analytical/mathematical knowledge to new problems surrounding code.
 
-I am a full stack software engineer who loves to solve problems and learn new exciting technologies. I am currently towards the last few weeks on the software development bootcamp by Makers Academy. This has given me ability to solve problems through TDD and think analytically.
+### My Motivation
+Whilst at University my favourite modules included the use of R to do statisical analysis, this was the first language I was exposed to. Coming out of University I knew I wanted to learn more and deep dive into the expansive sector. My father has been a great motivator to me also, being a developer he has told me stories about jobs within code he has had and the wide variety is intriguing to me, how one skill can cover so many areas. As a result, I went to work getting to grips with programming, self teaching through online courses eg. LinkedIn learning, YouTube, Udemy, Codeacademy. Then more recently I took the plunge to invest in a coding bootcamp at Makers Academy, here I was able to learn with other like minded driven people which gave me a great boost to work. I look forward, now as a graduate to working in more projects with people I have met.
 
-### Technologies:
+### Technologies
 JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
 
 ### Projects
-My projects can be found on the front page of my [github](https://github.com/DillonBarker)<br>
+My projects can be found on the front page of my Github: https://github.com/DillonBarker
+
+My portfolio showcasing my projects and blogs can be found here: https://dillonbarker.github.io/
+
 Here are a few I am very proud of:
-* [Maelstrom-RPG](https://github.com/dwram/Maelstrom), my final project at Makers.
-* [Instagram Clone](https://github.com/DillonBarker/instagram-challenge), a personal project I was interested in to cement the skills from the group project weeks.
-* [Facebook Clone](https://github.com/Pi-hils/Acebook), this was done in a group of 5 over 2 weeks at the Makers Academy.
+- Portfolio - GitHub pages, JavaScript, Ruby, HTML, SCSS
+- Maelstrom-RPG - JavaScript, React, HTML, CSS
+- Instagram Clone - Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, CSS
 
 ### Experience
+**Makers Academy** - A software development bootcamp (Jun 2020 - Sep 2020)
+- Knowledge sharing - with my mentee
+- Tech tests - following object orientated programming and test driven development
+- Pair programming - working with new people everyday and adapting approach accordingly
+- CI/CD of group projects - best practice deploying tested code
+**University of Birmingham** - BSc in Biochemistry (2:1) (Sep 2016 - Jul 2019)
+- Mathematical based tests - problem solving skills
+- Lab based project work - teamwork working in large and small groups
+- Data analytics - working with R for statistical analysis
 
-Makers Academy - A software development bootcamp based in London (June 2020 to current)
-* Programming principles: OOP, TDD, software design patterns
-* Fully remote training
-* Agile - working by pair programming and working in sprints.
-* Using web frameworks, and deployment strategies (CI/CD) to show full stack work
-* Knowledge sharing with my mentee I was assigned
+### Hobbies and fun facts
+Football, Computers, Mountain Biking, Surfing and Music
+I have a Gold DofE award, I have travelled a lot and love to experience new things!
+I write blogs about my coding experience and things that interest me, found on my portfolio! 
 
-University of Birmingham - BSc in Biochemistry with Biotechnology (2:1) (Sep 2016 - Jul 2019)
-* Problem solving skills
-* Teamwork working in large and small project groups
-* Analytics - working with R for statistical analysis
-
-#### Other qualifications
-
-- Gold DofE
-
-#### Hobbies
-
-- Football, Computers, Mountain Biking, Surfing, Music and the great british fry up.
