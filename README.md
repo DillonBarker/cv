@@ -1,12 +1,14 @@
 <h1 align="center">Dillon Barker</h1>                                     
 <div align="center">
   
-- Email - barker.dill98@gmail.com
-- View my [Portfolio](https://dillonbarker.github.io/)
-- Take a peek at my [Github](https://github.com/DillonBarker)
-- Check out my [LinkedIn](https://www.linkedin.com/in/dillon-barker-7b4585151/)
+Email - barker.dill98@gmail.com
+View my [Portfolio](https://dillonbarker.github.io/)
+Take a peek at my [Github](https://github.com/DillonBarker)
+Check out my [LinkedIn](https://www.linkedin.com/in/dillon-barker-7b4585151/)
 
 </div>
+
+---
 
 ### About Me
 I am a junior full stack developer who loves to solve problems and learn new exciting technologies. I have just completed an intensive coding bootcamp at Makers Academy. Through my time here I have benefited greatly by knowledge sharing with my peers and mentee. This has given me the ability to solve problems through TDD and apply my previous analytical/mathematical knowledge to new problems surrounding code.
@@ -43,7 +45,9 @@ Here are a few I am very proud of:
 - Lab based project work - teamwork working in large and small groups
 - Data analytics - working with R for statistical analysis
 
-### Hobbies and fun facts
+---
+
+### Hobbies and fun facts 
 - Football, building computers, mountain biking, surfing and music
 - I have a Gold DofE award, I have travelled a lot and love to experience new things!
   * For my award I volunteered as a football coach for 1 year, and I took part in a 1 month trip to Costa Rica and Nicaragua where we trekked volcanoes and helped to build a kitchen at a school in Nicaragua.
