@@ -1,4 +1,4 @@
-# Dillon Barker                                     
+<h1 align="center">Dillon Barker</h1>                                     
 <div align="right">
   
 - Email: barker.dill98@gmail.com
