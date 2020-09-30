@@ -29,13 +29,14 @@ Here are a few I am very proud of:
 - Tech tests - following object orientated programming and test driven development
 - Pair programming - working with new people everyday and adapting approach accordingly
 - CI/CD of group projects - best practice deploying tested code
+
 **University of Birmingham** - BSc in Biochemistry (2:1) (Sep 2016 - Jul 2019)
 - Mathematical based tests - problem solving skills
 - Lab based project work - teamwork working in large and small groups
 - Data analytics - working with R for statistical analysis
 
 ### Hobbies and fun facts
-Football, Computers, Mountain Biking, Surfing and Music
-I have a Gold DofE award, I have travelled a lot and love to experience new things!
-I write blogs about my coding experience and things that interest me, found on my portfolio! 
+- Football, Computers, Mountain Biking, Surfing and Music
+- I have a Gold DofE award, I have travelled a lot and love to experience new things!
+- I write blogs about my coding experience and things that interest me, found on my portfolio! 
 
