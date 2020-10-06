@@ -28,14 +28,18 @@ Whilst at University my favourite modules included the use of R to do statisical
 ---
 
 ### Technologies
-<div align="center">
+<div float="left">
 
 | Language | Technology | Testing Frameworks |
 | :-------------: | :----------: | :-----------: |
 | JavaScript | Node.js, jQuery, React | Jasmine, Jest |
 | Ruby | Rails, Sinatra | Capybara, RSpec |
 | Python | Flask | Pytest, unittest |
----
+
+</div>
+
+<div float="right">
+
 | Type | Technology | 
 | :-------------: | :----------: |
 | CI/CD |Travis CI, Heroku, Netlify |
@@ -47,7 +51,7 @@ Whilst at University my favourite modules included the use of R to do statisical
 
 </div>
 
-
+---
 
 ### Projects
 My projects can be found on the front page of my [Github](https://github.com/DillonBarker)
