@@ -11,9 +11,9 @@ Contact me at: barker.dill98@gmail.com
 <div align="center">
   
   [Projects](#projects) |
-  [Skills](#skills) |
+  [Skills](#technologies) |
   [Experience](#experience) |
-  [Interests](#interests)
+  [Interests](#hnterests)
   
 </div>
 
