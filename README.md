@@ -30,6 +30,12 @@ Whilst at University my favourite modules included the use of R to do statisical
 ### Technologies
 JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
 
+| Language       | Technology | Testing Frameworks |
+| :------------- | :----------: | -----------: |
+|  JavaScript | Node.js, jQuery | Jasmine    |
+| You Can Also   | Put Pipes In | Like this \| |
+
+
 ### Projects
 My projects can be found on the front page of my [Github](https://github.com/DillonBarker)
 
