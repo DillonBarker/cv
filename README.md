@@ -1,8 +1,8 @@
 <h1 align="center">Dillon Barker</h1>                                     
 <div align="center">
        
-  [Portfolio](https://dillonbarker.github.io/) |       
-  [Github](https://github.com/DillonBarker) |       
+  [Portfolio](https://dillonbarker.github.io/)   |       
+  [Github](https://github.com/DillonBarker)      |       
   [LinkedIn](https://www.linkedin.com/in/dillon-barker-7b4585151/)        
 
 </div>
