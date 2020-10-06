@@ -30,11 +30,13 @@ Whilst at University my favourite modules included the use of R to do statisical
 ### Technologies
 <div align="center">
   
-| Language       | Technology | Testing Frameworks |
+| Language | Technology | Testing Frameworks |
 | :------------- | :----------: | -----------: |
 |  JavaScript | Node.js, jQuery | Jasmine |
 | Ruby | Rails, Sinatra | Capybara, RSpec |
 | Python | Flask | Pytest, unittest |
+
+</div>
 
 Other Technologies:
 - Travis CI, Heroku and Netlify
@@ -42,8 +44,6 @@ Other Technologies:
 - HTML, CSS
 - Git
 - R for statistics
-
-</div>
 
 
 ### Projects
