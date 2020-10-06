@@ -29,19 +29,21 @@ Whilst at University my favourite modules included the use of R to do statisical
 
 ### Technologies
 <div align="center">
-  
+
 | Language | Technology | Testing Frameworks |
 | :------------- | :----------: | -----------: |
 | JavaScript | Node.js, jQuery, React | Jasmine, Jest |
 | Ruby | Rails, Sinatra | Capybara, RSpec |
 | Python | Flask | Pytest, unittest |
 
-Other Technologies:
-- Travis CI, Heroku and Netlify
-- SQL (PostgreSQL, Sqlite3, MySql)
-- HTML, CSS
-- Git
-- R for statistics
+| Type | Technology | 
+| :------------- | ----------: |
+| CI/CD |Travis CI, Heroku, Netlify |
+| Database | PostgreSQL, Sqlite3, MySQL |
+| Styling | HTML, CSS |
+| Version control | Git, Command line, VS Code extension |
+| Statistics | R |
+| Analytics | Qlikview, Tableau |
 
 </div>
 
