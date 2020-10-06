@@ -1,7 +1,6 @@
 <h1 align="center">Dillon Barker</h1>                                     
 <div align="center">
-  
-  Contact me at: barker.dill98@gmail.com |     
+       
   [Portfolio](https://dillonbarker.github.io/) |       
   [Github](https://github.com/DillonBarker) |       
   [LinkedIn](https://www.linkedin.com/in/dillon-barker-7b4585151/)        
