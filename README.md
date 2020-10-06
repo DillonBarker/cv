@@ -31,13 +31,13 @@ Whilst at University my favourite modules included the use of R to do statisical
 <div align="center">
 
 | Language | Technology | Testing Frameworks |
-| :------------- | :----------: | -----------: |
+| :-------------: | :----------: | :-----------: |
 | JavaScript | Node.js, jQuery, React | Jasmine, Jest |
 | Ruby | Rails, Sinatra | Capybara, RSpec |
 | Python | Flask | Pytest, unittest |
-
+---
 | Type | Technology | 
-| :------------- | ----------: |
+| :-------------: | :----------: |
 | CI/CD |Travis CI, Heroku, Netlify |
 | Database | PostgreSQL, Sqlite3, MySQL |
 | Styling | HTML, CSS |
