@@ -28,7 +28,7 @@ Whilst at University my favourite modules included the use of R to do statisical
 ---
 
 ### Technologies
-My languages and technologies that I have used alongside the testing frameworks which I have employed in the apps I created.
+My languages and technologies that I have used alongside the testing frameworks which I have employed in the apps I created
 
 <div align="center">
   
