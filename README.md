@@ -9,10 +9,12 @@ Contact me at: barker.dill98@gmail.com
 </div>
 
 <div align="center">
+  
   [Projects](#projects) |
   [Skills](#skills) |
   [Experience](#experience) |
   [Interests](#interests)
+  
 </div>
 
 ---
