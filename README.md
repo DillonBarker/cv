@@ -28,12 +28,18 @@ Whilst at University my favourite modules included the use of R to do statisical
 ---
 
 ### Technologies
-JavaScript(Node.js, jQuery, Jasmine), Ruby(Rails, RSpec, Capybara), SQL(PostgreSQL), R for statistics, Python, HTML, CSS, Git, Travis CI and Heroku.
-
 | Language       | Technology | Testing Frameworks |
 | :------------- | :----------: | -----------: |
-|  JavaScript | Node.js, jQuery | Jasmine    |
-| You Can Also   | Put Pipes In | Like this \| |
+|  JavaScript | Node.js, jQuery | Jasmine |
+| Ruby | Rails, Sinatra | Capybara, RSpec |
+| Python | Flask | Pytest, unittest |
+
+Other Technologies:
+- Travis CI, Heroku and Netlify
+- SQL (PostgreSQL, Sqlite3, MySql)
+- HTML, CSS
+- Git
+- R for statistics
 
 
 ### Projects
