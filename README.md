@@ -13,7 +13,7 @@ Contact me at: barker.dill98@gmail.com
   [Projects](#projects) |
   [Skills](#technologies) |
   [Experience](#experience) |
-  [Interests](#hnterests)
+  [Hobbies](#hobbies)
   
 </div>
 
