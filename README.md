@@ -32,11 +32,9 @@ Whilst at University my favourite modules included the use of R to do statisical
   
 | Language | Technology | Testing Frameworks |
 | :------------- | :----------: | -----------: |
-|  JavaScript | Node.js, jQuery | Jasmine |
+| JavaScript | Node.js, jQuery | Jasmine |
 | Ruby | Rails, Sinatra | Capybara, RSpec |
 | Python | Flask | Pytest, unittest |
-
-</div>
 
 Other Technologies:
 - Travis CI, Heroku and Netlify
@@ -44,6 +42,9 @@ Other Technologies:
 - HTML, CSS
 - Git
 - R for statistics
+
+</div>
+
 
 
 ### Projects
@@ -53,7 +54,7 @@ My portfolio showcasing my projects and blogs can be found [here](https://dillon
 
 Here are a few I am very proud of:
 - [Portfolio](https://dillonbarker.github.io/blog/) - GitHub pages, JavaScript, Ruby, HTML, SCSS
-- [Maelstrom-RPG](https://github.com/DillonBarker/Maelstrom) - JavaScript, React, HTML, CSS
+- [Maelstrom-RPG](https://github.com/DillonBarker/Maelstrom) - JavaScript, React, HTML, CSS, Travis CI, Netlify
 - [Instagram Clone](https://github.com/DillonBarker/instagram-challenge) - Ruby on Rails, RSpec, Capybara, PostgreSQL, HTML, CSS
 
 ---
