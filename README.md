@@ -86,5 +86,4 @@ Here are a few I am very proud of:
 - I have a Gold DofE award, I have travelled a lot and love to experience new things!
   * For my award I volunteered as a football coach for 1 year, and I took part in a 1 month trip to Costa Rica and Nicaragua where we trekked volcanoes and helped to build a kitchen at a school in Nicaragua.
 - I write blogs about my coding experience and things that interest me, found on my [portfolio!](https://dillonbarker.github.io/blog/)
-  * I am currently looking into Django vs. Flask for my first python web app, i'll soon be blogging on this!
-
+- My current project is a Finance App, built in Ruby on Rails, using the Minitest framework
