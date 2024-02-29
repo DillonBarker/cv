@@ -17,7 +17,7 @@
 
 ### About Me
 I am a back end developer at Test Evolve. I am responsible for a number of components in our product stack and play a major role in the release cycle.
-My main skills include: Development in **Kotlin**, **Go**, Infrastructure tooling in GCP using **terraform**, CI/CD tooling maintenance and building of **tekton/jenkins** tooling.
+My main skills include: Development in **Kotlin**, **Go**, Infrastructure tooling in GCP using **terraform**, CI/CD tooling maintenance and maintenance and creation of **tekton/jenkins** builds.
 
 ---
 
