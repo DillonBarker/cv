@@ -24,7 +24,7 @@ My main skills include: Development in **Kotlin**, **Go**, Infrastructure toolin
 ### Skills
 - Responsible for release cycle using Kubernetes.
 - Wrote infrastructure Go tool, to interact with GitHub API to speed up repository creation and customization (webhooks etc.)
-- Headed up creation of component written in Kotlin.
+- Headed up creation of new component written in Kotlin.
 
 ### Experience
 **Test Evolve** - Back end developer (Dec 2020 - Current)
