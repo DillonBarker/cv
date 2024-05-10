@@ -22,17 +22,17 @@ My main skills include: Development in **Kotlin**, **Go**, Infrastructure toolin
 ---
 
 ### Skills
-- Responsible for release cycle using Kubernetes.
+- Responsible for release cycle, using Kubernetes.
 - Wrote infrastructure Go tool, to interact with GitHub API to speed up repository creation and customization (webhooks etc.)
-- Headed up creation of new component written in Kotlin.
+- Headed up creation of new microservice written in Kotlin, for the main stack.
 
 ### Experience
 **Test Evolve** - Back end developer (Dec 2020 - Current)
-- Started off as a Test Analyst and worked way up through the company within ~1 year
+- Started off as a Test Analyst and worked way up through the company within 1 year
 - Currently lead developer on dashboard solution written in Kotlin.
-- Experienced in a range of languages including Go, Python, Ruby and JavaScript. Also infrastructure languages such as Terraform.
-- Monitor and assist in releases working with Kubernetes clusters. 
-- Responsible for maintaining various infrastructure tooling and use of GCP. 
+- Experienced in a range of languages including Go, Bash, Python, Ruby and JavaScript. Also infrastructure languages such as Terraform.
+- Monitor and assist in releases working with Kubernetes clusters. Responsible for doing rollbacks if required and restoring database backups.
+- Responsible for maintaining various infrastructure tooling primarily written in bash.
 
 **Makers Academy** - A software development bootcamp (Jun 2020 - Sep 2020)
 - Knowledge sharing - with my mentee and peers during the course.
